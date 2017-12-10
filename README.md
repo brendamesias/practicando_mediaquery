@@ -8,10 +8,13 @@ las secciones de la pagina web y sus carateristicas como background(color de fon
 ![Sin titulo](images/tamaño_grande.png)
 
  APROXIMADAMENTE 800px
+ 
 ![Sin titulo](images/tamaño_mediano.png)
 
  APROXIMADAMENTE 600px
+
 ![Sin titulo](images/tamaño_pequeño.png)
 
  APROXIMADAMENTE 400px
+
 ![Sin titulo](images/tamaño_minimo.png)
